@@ -1,3 +1,2 @@
-# Computational-Finance
-- Exercise of Computational Finance Training for Lab course during my first year
-- Note: The codes and some mathematical concepts aren't 100% correct.
+# Computational-Finance-Course
+Year 4 Semester 1 - Computational Finance Homework @ Department of Computer Engineering, Kasetsart University.
